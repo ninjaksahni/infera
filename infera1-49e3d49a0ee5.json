@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "infera1",
+  "private_key_id": "49e3d49a0ee5d2681a1106af8397fd2048d64653",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC783JePx0bb6UF\ncawEq1/Ig3zv6NiBQyyqnunZ/8Kck7SsE7t03C7H1W8riKklZZaoX70qWnb7vC4B\nCaOhFpasM0EWUmp+jsuT/u5A/1I6NibBvVHdmrRPGYCiN3bII/a/g9ZmczROw39O\noSdS9qRGfzRoaNPOg0L97iG1zWaVWk+KFXzTpKaV3cShmm4FchGoZV/SK2e3QxWR\nRAswJj2/gI+jikmhgZ13mIr0uEmOkzon3V+XAilcibtFvgmZbIkp2kiildt4+5/2\nXWIHiVGadEHK/1lkTefml6a5Q3EfjMDAlJIZ6ScxCzd77tMggb+1iI6BXjuj8DYr\nletlsILRAgMBAAECggEAQdj2QiepenHAZmpfQlmKGrVaYbD5nTvcG8DGHD6bP4EO\nJNVa8QOtDgzsQFvGKthvEnlMTFjaY7KXiXyHi8nequDgFkJ0lfdQQn7nmPT6qXNM\nW8cItfNb5XSBWRPGdTMIYSt+w3DsLAYZBYK3RL0ta5doVIYZYrohD9bMj6WxIXSj\nGjUZKFO3xRI68u809jqvZRqfaerf5b0oHtcQzR0r74lwyGVGW3ritko19pMYyBre\n7UG8EhTV0a4USYUqiKFJTNq7djjZoJcSBuIjU3XD5pFhpL0GSO2kk0nSgQlN3oRt\nMDmV1gvn1QuwHkucOoX0VZE4H/sqKr59mf+rylnoGwKBgQDlkumaAeVQGP5ajinL\nsNrWNMZLZfGQfnIGw3Jk9qgqO1G9GXxuBDTL/2EFCUkNeWu/3YozykEVUC+iO/pA\nupATKwPa56sHZcMdkNsOFEmMKyRriw9FnCuwmXp5QGyu0Sak4kon7U0pc8vlB0wG\nLlYB+1zSOXnDe4y3Yppzal/6kwKBgQDRlf1LHQUG+KfHGFamsjqYM6lgT9uyGR+T\nI288ZuH7RO1Xyi4pNQbGQEwJGM6cHgh8sQ+Ya83XEi3Bm4pf9fh/UKABBbBBebd2\nePl0DHrGwJhBtUYt/rYwCypTRrlCHawA2HqL++Cc1Uv5nD9zspl3O9cDYpNkveWw\nzsyhspbXiwKBgADq83AgLdCCKRInm1crH9TXZSuL/sk7GC2avmxU6BszHYKKBYtT\nDPr7zGF+xgH9yEZ+Fj1aw6PYLDiT0M5NcKIC/AL2BiMDbyJBH/8QabLbwUuExMzc\ncPhFxM2TSlvwjhz+oplCQ5q00c3al502tjVP0fEtNaVoawmYpVFszXFtAoGAA1HK\n1zu4bqnVjnO2O6GrB+oZjqr1IdcABwaSpnRCtAYddDyBiqmKV+2AxswbyaE4JTFw\nu8tJUVS6YMyj3m046FtQjXOXnRHedAPqf4oLD8bRIolKeUQFgrFKlFMUcBWkOccz\n+a+dmR5Pu75byutTPu41s5oGF5xiXPCJkS4Q8Y0CgYEArg2TM0WS/lBKQzGSr5T9\n5V26O7OVjfwTQ9M0LMK40M4b8VXeJCHxYjZH9K/LGlut0G/ktGWxmJtzBbgLh8ow\n0fMXgmCKE3fgNOh9+hKpDpWb6l9OmHTHMFavy3fCImARrpBXjbA9BgJDxogJOAmF\nNIokwPsIj9Rg51Zy8A0A0fM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "infera@infera1.iam.gserviceaccount.com",
+  "client_id": "106600646918751889777",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/infera%40infera1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
