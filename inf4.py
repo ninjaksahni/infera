@@ -30,7 +30,7 @@ if not all([BASE_ID, SUMMARIES_TABLE_NAME, VISUALIZATIONS_TABLE_NAME, AIRTABLE_P
 
 # Google Drive API setup
 SCOPES = ['https://www.googleapis.com/auth/drive.file']
-SERVICE_ACCOUNT_FILE = 'https://github.com/ninjaksahni/infera/blob/main/infera1-49e3d49a0ee5.json'
+SERVICE_ACCOUNT_FILE = 'https://github.com/ninjaksahni/infera/blob/37fde489e48d10cc1f2fc9f17767052079e87d7e/infera1-49e3d49a0ee5.json'
 
 credentials = service_account.Credentials.from_service_account_file(
     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
